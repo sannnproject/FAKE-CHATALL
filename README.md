@@ -1,4 +1,4 @@
-# FAKE-CHATALL 🎭
+# FAKE-CHATALL
 
 > **Aplikasi generator fake chat profesional untuk berbagai platform media sosial dan aplikasi messaging**
 
@@ -198,14 +198,14 @@ Buat file `.env.local` di root directory:
 
 ```env
 # API Configuration
-NEXT_PUBLIC_API_URL=http://localhost:3000
+API_KEY=http://localhost:3000
 
 # Optional: External APIs
-NEXT_PUBLIC_GOOGLE_AI_KEY=your_google_ai_key
+PUBLIC_API_KEY=YOUR_API_KEY
 
 # Optional: Firebase (if using)
 FIREBASE_PROJECT_ID=your_project_id
-FIREBASE_API_KEY=your_api_key
+API_KEY=your_api_key
 ```
 
 ### 4. Development Server
@@ -748,4 +748,4 @@ Jika proyek ini bermanfaat, silakan:
 
 **Made with ❤️ by [sannnproject](https://github.com/sannnproject)**
 
-*Last updated: July 2024 | Current Version: 0.1.0*
+*Last updated: July 2026 | Current Version: 0.1.0*
